@@ -1,7 +1,7 @@
-**Week 11 Assignment 
+**Week 12 Assignment 
 **
 
-Used start.spring.io to create a “web” project. 
+Used start.spring.io to create a “web” project, and added folders so that it worked for the student and class tables. 
 
 Edited the code in the DemoApplication.java file in the src/main/java/com/example/demo folder.
 
